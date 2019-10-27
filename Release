@@ -1,0 +1,15 @@
+Origin: WiikuHacK
+
+Label: Demo
+
+Suite: stable
+
+Version: 0.1
+
+Codename: repo
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: Repository WiikuHacK
